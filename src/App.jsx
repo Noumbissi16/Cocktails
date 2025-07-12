@@ -16,9 +16,9 @@ function App() {
       <Hero />
       <Cocktails />
       <About />
-      {/* <Menu /> */}
+      <Art />
+      <Menu />
       {/* <Contact /> */}
-      {/* <Art /> */}
     </main>
   );
 }
